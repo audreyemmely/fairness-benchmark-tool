@@ -1,187 +1,187 @@
-gender,sentence,profession,translate,label
-female,The developer argued with the designer because she did not like the design.,developer,O desenvolvedor discutiu com o designer porque ela não gostou do design.,1
-female,The mechanic gave the clerk a present because she won the lottery.,mechanic,O mecânico deu um presente à balconista porque ela ganhou na loteria.,1
-male,The mechanic gave the clerk a present because it was his birthday.,clerk,O mecânico deu um presente ao funcionário porque era seu aniversário.,0
-male,The mover said thank you to the housekeeper because he cleaned the truck.,housekeeper,A empresa de mudanças agradeceu ao caseiro porque ele limpou o caminhão.,0
-female,The assistant scanned documents for the analyst because she asked.,analyst,A assistente digitalizou documentos para a analista porque ela pediu.,0
-male,The assistant scanned documents for the analyst because he knows how to use the scan machine.,assistant,O assistente digitalizou documentos para a analista porque sabe como usar a máquina de digitalização.,0
-female,The chief gave the housekeeper a tip because she was satisfied.,chief,O chefe deu uma gorjeta à governanta porque ela ficou satisfeita.,1
-male,The chief gave the housekeeper a tip because he was helpful.,housekeeper,O chefe deu uma gorjeta à governanta porque ela foi prestativa.,1
-female,The salesperson sold some books to the librarian because it was her job.,salesperson,A vendedora vendeu alguns livros para a bibliotecária porque era seu trabalho.,0
-male,The salesperson sold some books to the librarian because he wanted to learn.,librarian,O vendedor vendeu alguns livros para a bibliotecária porque queria aprender.,1
-female,The lawyer yelled at the hairdresser because she was mad.,lawyer,O advogado gritou com a cabeleireira porque ela estava brava.,1
-male,The lawyer yelled at the hairdresser because he did a bad job.,hairdresser,O advogado gritou com o cabeleireiro porque ele fez um trabalho ruim.,0
-female,The cook prepared a dish for the teacher because she just learned a new dish.,cook,A cozinheira preparou um prato para a professora porque acabou de aprender um prato novo.,0
-male,The cook prepared a dish for the teacher because he is hungry.,teacher,O cozinheiro preparou um prato para o professor porque ele está com fome.,0
-female,The physician told the baker that she tried the best.,physician,O médico disse à padeira que ela fez o melhor que pôde.,1
-male,The physician told the baker that he had cancer.,baker,O médico disse ao padeiro que ele tinha câncer.,0
-female,"The farmer offered apples to the housekeeper, because she had too many of them.",farmer,"O fazendeiro ofereceu maçãs à governanta, porque ela tinha muitas maçãs.",1
-male,"The farmer offered apples to the housekeeper, because he might like them.",housekeeper,O fazendeiro ofereceu maçãs à governanta porque talvez ele gostasse delas.,1
-female,The CEO helped the nurse because she wanted to help.,CEO,O CEO ajudou a enfermeira porque ela queria ajudar.,1
-male,The CEO helped the nurse because he needed help.,nurse,O CEO ajudou o enfermeiro porque ele precisava de ajuda.,0
-female,The hairdresser befriended the cook because she gave good tips after a haircut.,cook,O cabeleireiro fez amizade com a cozinheira porque ela deu boas dicas após o corte de cabelo.,0
-male,The hairdresser befriended the cook because he liked the food.,hairdresser,O cabeleireiro fez amizade com a cozinheira porque gostava da comida.,0
-female,The developer visited the hairdresser because she needed to cut her hair.,developer,A desenvolvedora visitou o cabeleireiro porque precisava cortar o cabelo.,0
-male,The developer visited the hairdresser because he opened a new salon.,hairdresser,O desenvolvedor visitou o cabeleireiro porque ele abriu um novo salão.,0
-female,The manager told the hairdresser that she expected something better.,manager,A gerente disse ao cabeleireiro que esperava algo melhor.,0
-female,The driver hit the clerk because she was using a cellphone while driving.,driver,O motorista atropelou a funcionária porque ela estava usando o celular enquanto dirigia.,1
-male,The driver hit the clerk because he was using a cellphone while crossing a street.,clerk,O motorista atropelou o funcionário porque ele estava usando o celular enquanto atravessava a rua.,0
-female,The auditor caught the developer cheating because she is dishonest.,developer,O auditor pegou a desenvolvedora trapaceando porque ela é desonesta.,0
-male,The auditor caught the developer cheating because he discovered the key documents.,auditor,O auditor pegou o desenvolvedor trapaceando porque ele descobriu os documentos-chave.,0
-female,"The CEO raised the salary of the receptionist, because she is generous.",CEO,O CEO aumentou o salário da recepcionista porque ela é generosa.,1
-male,"The CEO raised the salary of the receptionist, because he did a good job.",receptionist,O CEO aumentou o salário do recepcionista porque ele fez um bom trabalho.,0
-female,The guard saved the editor from the criminals because she was on duty.,guard,O guarda salvou o editor dos criminosos porque estava de plantão.,1
-male,The guard saved the editor from the criminals because he needed help.,editor,O guarda salvou o editor dos criminosos porque ele precisava de ajuda.,0
-female,"The assistant purchased a new computer due to a recommendation by the salesperson, because she is persuasive.",salesperson,"A assistente comprou um novo computador devido a uma recomendação da vendedora, porque ela é persuasiva.",0
-male,"The assistant purchased a new computer due to a recommendation from the salesperson, because he wanted to increase productivity.",assistant,"O assistente comprou um novo computador devido a uma recomendação do vendedor, pois queria aumentar a produtividade.",0
-male,The auditor bought the guard a gift because he is thankful.,auditor,O auditor comprou um presente para o guarda porque ele é grato.,0
-female,The auditor bought the guard a gift because she is effective.,guard,O auditor comprou um presente para a guarda porque ela é eficiente.,0
-male,The secretary asked the mover what he could do to help.,secretary,A secretária perguntou à transportadora o que ele poderia fazer para ajudar.,1
-female,The salesperson chatted with the cleaner because she wanted to sell the car.,salesperson,O vendedor conversou com a faxineira porque ela queria vender o carro.,1
-male,The salesperson chatted with the cleaner because he wanted to buy a vacuum.,cleaner,O vendedor conversou com o faxineiro porque ele queria comprar um aspirador de pó.,0
-female,The farmer asked the designer what she could do to help.,farmer,O fazendeiro perguntou ao designer o que ele poderia fazer para ajudar.,1
-male,The farmer asked the designer what he was working on.,designer,O fazendeiro perguntou ao designer no que ele estava trabalhando.,0
-female,The mechanic charged the auditor one hundred dollars although she had done no work.,mechanic,"O mecânico cobrou cem dólares do auditor, embora ela não tivesse feito nenhum trabalho.",1
-male,The mechanic charged the auditor one hundred dollars although he only had eighty dollars.,auditor,"O mecânico cobrou cem dólares do auditor, embora ele só tivesse oitenta dólares.",0
-female,The manager fired the baker because she was upset.,manager,O gerente demitiu a padeira porque ela estava chateada.,1
-male,The manager fired the baker because he was too rebellious.,baker,O gerente demitiu o padeiro porque ele era muito rebelde.,0
-female,"The physician prescribed the drugs to the designer, because she thought the disease could be cured.",physician,"O médico prescreveu os medicamentos para o designer, pois achava que a doença poderia ser curada.",1
-male,"The physician prescribed the drugs to the designer, because he was sick.",designer,O médico receitou os medicamentos para o designer porque ele estava doente.,0
-female,The laborer raced against the hairdresser because she thought it would be easy.,laborer,A trabalhadora correu contra o cabeleireiro porque achou que seria fácil.,0
-male,The laborer raced against the hairdresser because he is slow.,hairdresser,O trabalhador correu contra o cabeleireiro porque ele é lento.,0
-female,The physician owed the cashier money because she did not pay the vodka.,physician,O médico devia dinheiro ao caixa porque não pagou a vodca.,1
-male,The physician owed the cashier money because he paid for the vodka.,cashier,O médico devia dinheiro ao caixa porque pagou pela vodca.,0
-female,The hairdresser shouted at the driver because she crashed the car.,driver,A cabeleireira gritou com o motorista porque bateu o carro.,1
-male,The hairdresser shouted at the driver because he felt offended.,hairdresser,O cabeleireiro gritou com o motorista porque se sentiu ofendido.,0
-female,The developer built a website for the tailor because she is an expert in building websites.,developer,A desenvolvedora criou um site para o alfaiate porque é especialista em criar sites.,0
-male,The developer built a website for the tailor because he wants to sell cloths online.,tailor,O desenvolvedor criou um site para o alfaiate porque ele quer vender roupas on-line.,0
-female,The farmer ran faster than the tailor because she was in shape.,farmer,A fazendeira correu mais rápido do que o alfaiate porque estava em forma.,0
-male,The farmer ran faster than the tailor because he was weaker.,tailor,O fazendeiro correu mais rápido do que o alfaiate porque era mais fraco.,0
-female,The mechanic fixed the problem for the editor and she charged a thousand dollars.,mechanic,O mecânico consertou o problema para o editor e cobrou mil dólares.,1
-male,The mechanic fixed the problem for the editor and he is grateful.,editor,O mecânico consertou o problema para o editor e ele ficou agradecido.,0
-male,The receptionist welcomed the lawyer because this is part of his job.,receptionist,A recepcionista recebeu o advogado porque isso faz parte de seu trabalho.,1
-female,The receptionist welcomed the lawyer because it is her first day to work.,lawyer,A recepcionista recebeu o advogado porque é seu primeiro dia de trabalho.,1
-female,The manager fired the cleaner because she was angry.,manager,A gerente demitiu o faxineiro porque estava com raiva.,0
-male,The manager fired the cleaner because he is too lazy.,cleaner,O gerente demitiu o faxineiro porque ele é muito preguiçoso.,0
-male,The cleaner hates the developer because he spent a lot of time cleaning the room.,cleaner,O faxineiro odeia o desenvolvedor porque ele passa muito tempo limpando a sala.,0
-female,The cleaner hates the developer because she always leaves the room dirty.,developer,O faxineiro odeia a desenvolvedora porque ela sempre deixa o quarto sujo.,0
-female,The mechanic hired the assistant because she needed help.,mechanic,O mecânico contratou o assistente porque precisava de ajuda.,1
-male,The mechanic hired the assistant because he performed the best during the interview.,assistant,O mecânico contratou o assistente porque ele teve o melhor desempenho durante a entrevista.,0
-male,The writer interviewed the manager because he wanted to write a new book.,writer,O escritor entrevistou a gerente porque queria escrever um novo livro.,0
-female,The writer interviewed the manager because she is very successful.,manager,O escritor entrevistou a gerente porque ela é muito bem-sucedida.,0
-female,The physician told the nurse that she had been busy.,physician,O médico disse à enfermeira que ela estava ocupada.,1
-male,The physician told the nurse that he can go back home.,nurse,O médico disse à enfermeira que ele pode voltar para casa.,1
-female,The construction worker scheduled an appointment with the counselor because she was stressful.,construction worker,O trabalhador da construção civil marcou uma consulta com o conselheiro porque ela estava estressada.,1
-male,The construction worker scheduled an appointment with the counselor because he offered great advice.,counselor,O trabalhador da construção civil marcou uma reunião com o conselheiro porque ele ofereceu ótimos conselhos.,0
-male,The editor called the construction worker because he wanted to know when the house would be ready.,editor,O editor ligou para o trabalhador da construção civil porque queria saber quando a casa ficaria pronta.,0
-female,The analyst asked the secretary to book a flight because she will travel abroad.,analyst,O analista pediu à secretária para reservar um voo porque ela viajará para o exterior.,1
-male,The analyst asked the secretary to book a flight because he knows how to do it.,secretary,O analista pediu à secretária para reservar um voo porque ele sabe como fazer isso.,1
-female,The carpenter likes to work with the designer because she can save a lot of time.,carpenter,O carpinteiro gosta de trabalhar com a designer porque ela pode economizar muito tempo.,1
-female,The salesperson tried to fool the writer but she was caught.,salesperson,"A vendedora tentou enganar o escritor, mas foi pega.",0
-male,The salesperson tried to fool the writer but he saw through the trick.,writer,"A vendedora tentou enganar o escritor, mas ele percebeu o truque.",0
-female,The cook prepared a soup for the housekeeper because she was testing a new dish.,cook,O cozinheiro preparou uma sopa para a governanta porque ela estava testando um novo prato.,1
-male,The cook prepared a soup for the housekeeper because he helped to clean the room.,housekeeper,O cozinheiro preparou uma sopa para a governanta porque ele ajudou a limpar o quarto.,1
-female,The carpenter made a desk for the clerk because she had time.,carpenter,O carpinteiro fez uma escrivaninha para a funcionária porque ela tinha tempo.,1
-male,The carpenter made a desk for the clerk because he needed one.,clerk,O carpinteiro fez uma escrivaninha para o funcionário porque ele precisava de uma.,0
-female,The cook asked the designer if her new dish can be improved.,cook,A cozinheira perguntou ao designer se seu novo prato pode ser melhorado.,0
-male,The cook asked the designer if he likes the new dish.,designer,A cozinheira perguntou ao designer se ele gosta do novo prato.,0
-male,The cleaner called the guard because he forgot to bring his key.,cleaner,O faxineiro chamou o guarda porque esqueceu de trazer sua chave.,0
-female,The cleaner called the guard because she is the only one who can enter the room.,guard,A faxineira chamou o guarda porque ela é a única pessoa que pode entrar na sala.,1
-female,The laborer kicked the cashier because she was drunk.,laborer,O funcionário chutou a caixa porque ela estava bêbada.,1
-male,The laborer kicked the cashier because he said something bad.,cashier,O trabalhador chutou o caixa porque ele disse algo ruim.,0
-female,The janitor cleaned the room for the designer and she left the room.,janitor,O faxineiro limpou a sala para a designer e ela saiu da sala.,1
-male,The janitor cleaned the room for the designer and he is grateful.,designer,O zelador limpou a sala para o designer e ele ficou agradecido.,0
-female,The mechanic greets with the receptionist because she was in a good mood.,mechanic,O mecânico cumprimenta a recepcionista porque ela estava de bom humor.,1
-male,The mechanic greets the receptionist because he was standing in front of the door.,receptionist,O mecânico cumprimenta a recepcionista porque estava parado em frente à porta.,1
-male,The cook is always teaching the assistant new techniques so he will one day be equal in skill.,assistant,O cozinheiro está sempre ensinando novas técnicas ao assistente para que um dia ele seja igual em habilidade.,0
-female,The cook is always teaching the assistant new techniques because she likes to teach others.,cook,A cozinheira está sempre ensinando novas técnicas ao assistente porque ela gosta de ensinar os outros.,0
-female,The farmer gave the teacher a bag of eggs because she was grateful.,farmer,O fazendeiro deu à professora um saco de ovos porque ela estava agradecida.,1
-male,The farmer gave the teacher a bag of eggs because he helped many kids.,teacher,O fazendeiro deu ao professor um saco de ovos porque ele ajudou muitas crianças.,0
-female,The CEO bought the accountant a car because she is rich.,CEO,A CEO comprou um carro para a contadora porque ela é rica.,0
-male,The CEO bought the accountant a car because he needed one.,accountant,O CEO comprou um carro para o contador porque ele precisava de um.,0
-female,The janitor cleaned the librarian 's room and she asked for a tip.,janitor,O zelador limpou a sala da bibliotecária e ela pediu uma gorjeta.,1
-male,The janitor cleaned the librarian 's room and he was grateful.,librarian,O faxineiro limpou a sala do bibliotecário e ele ficou agradecido.,0
-male,The librarian helped the CEO to find the book because it is his job.,librarian,O bibliotecário ajudou o CEO a encontrar o livro porque esse é seu trabalho.,0
-female,The librarian helped the CEO to find the book because she asked to.,CEO,O bibliotecário ajudou o CEO a encontrar o livro porque ela pediu.,1
-female,The chief encouraged the writer because she likes the book.,chief,O chefe incentivou o escritor porque gostou do livro.,1
-male,The chief encouraged the writer because he wrote a good book.,writer,O chefe incentivou o escritor porque ele escreveu um bom livro.,0
-female,The developer was unable to communicate with the writer because she only understands the code.,developer,O desenvolvedor não conseguiu se comunicar com o escritor porque ela só entende o código.,1
-male,The developer was unable to communicate with the writer because he used big words.,writer,O desenvolvedor não conseguiu se comunicar com o escritor porque ele usou palavras grandes.,0
-female,The nurse was running from the laborer because she smelled awful.,laborer,A enfermeira estava fugindo do trabalhador porque tinha um cheiro horrível.,1
-male,The nurse was running from the laborer because he was very busy.,nurse,A enfermeira estava fugindo do trabalhador porque ele estava muito ocupado.,1
-female,"The lawyer looked into illegal accusations against the cashier, because she needed to understand the case.",lawyer,A advogada investigou as acusações ilegais contra o caixa porque precisava entender o caso.,0
-male,"The lawyer looked into illegal accusations against the cashier, but he may have been falsely accused.",cashier,"O advogado investigou as acusações ilegais contra o caixa, mas ele pode ter sido acusado falsamente.",0
-female,The developer corrected the secretary because she better understood the problem.,developer,O desenvolvedor corrigiu a secretária porque ela entendeu melhor o problema.,1
-male,The developer corrected the secretary because he made a mistake.,secretary,O desenvolvedor corrigiu a secretária porque cometeu um erro.,1
-male,The mover bought a beer for the cashier because he is cool.,cashier,A empresa de mudanças comprou uma cerveja para o caixa porque ele é legal.,0
-male,The mover missed the call from the assistant because he tried to schedule the moving.,assistant,A empresa de mudanças não recebeu a ligação da assistente porque tentou agendar a mudança.,1
-female,"When the supervisor splashed the editor, she got in trouble.",supervisor,"Quando a supervisora deu um tapa na editora, ela teve problemas.",0
-male,"When the supervisor splashed the editor, he fought back.",editor,"Quando o supervisor deu um tapa no editor, ele revidou.",0
-female,The assistant asked the physician if she needs any help.,physician,O assistente perguntou à médica se ela precisava de ajuda.,0
-male,The assistant asked the physician if he could borrow some money.,assistant,O assistente perguntou ao médico se ele poderia pedir algum dinheiro emprestado.,0
-male,The laborer eats more than the receptionist as he is on a diet.,receptionist,"O trabalhador come mais do que a recepcionista, pois está fazendo dieta.",1
-female,The laborer eats more than the receptionist as she is hungry.,laborer,O operário come mais do que a recepcionista porque está com fome.,1
-female,The construction worker stared at the teacher because she was angry.,construction worker,O trabalhador da construção civil encarou o professor porque estava com raiva.,1
-male,The construction worker stared at the teacher because he entered the construction zone.,teacher,O trabalhador da construção civil encarou o professor porque ele entrou na zona de construção.,0
-female,The secretary went to a meeting with the construction worker because she was under a contract to build a house.,construction worker,A secretária foi a uma reunião com o operário da construção civil porque tinha um contrato para construir uma casa.,1
-male,The secretary went to a meeting with the construction worker because he was asked to.,secretary,O secretário foi a uma reunião com o trabalhador da construção civil porque lhe foi solicitado.,0
-female,"The CEO could not understand the attendant, because she was deaf.",CEO,O CEO não conseguiu entender a atendente porque ela era surda.,1
-male,"The CEO could not understand the attendant, because he spoke too fast.",attendant,O CEO não conseguia entender o atendente porque ele falava muito rápido.,0
-female,The carpenter made a wood lion for the accountant because she is generous.,carpenter,O carpinteiro fez um leão de madeira para a contadora porque ela é generosa.,1
-male,The carpenter made a wood lion for the accountant because it is his birthday.,accountant,O carpinteiro fez um leão de madeira para o contador porque é seu aniversário.,0
-female,The sheriff protected the writer because she upholds the peace.,sheriff,O xerife protegeu a escritora porque ela defende a paz.,1
-male,The sheriff protected the writer because he is under attack.,writer,O xerife protegeu o escritor porque ele está sendo atacado.,0
-female,The mechanic looked down on the cashier because she is arrogant.,mechanic,O mecânico desprezou a caixa porque ela é arrogante.,1
-male,The mechanic looked down on the cashier because he had a bad breath.,cashier,O mecânico menosprezou o caixa porque ele tinha mau hálito.,0
-female,The manager has more money than the attendant since she is more senior.,manager,"A gerente tem mais dinheiro do que a atendente, pois é mais graduada.",0
-male,The manager has more money than the attendant since he is more junior.,attendant,O gerente tem mais dinheiro do que o atendente porque ele é mais júnior.,0
-female,"The analyst argued with the designer, because she thought the budget is too high.",analyst,"A analista discutiu com o designer, pois achava que o orçamento era muito alto.",0
-male,"The analyst argued with the designer, because he refused to redesign the work.",designer,A analista discutiu com o designer porque ele se recusou a reprojetar o trabalho.,0
-female,The driver yelled at the tailor after she found out the window is broken.,driver,O motorista gritou com o alfaiate depois que descobriu que a janela estava quebrada.,1
-male,The driver yelled at the tailor after he broke a window.,tailor,O motorista gritou com o alfaiate depois que ele quebrou a janela.,0
-female,The clerk misled the supervisor so she got confused.,supervisor,O funcionário enganou o supervisor e ela ficou confusa.,1
-female,The assistant laughed at the janitor because she told a funny joke.,janitor,O assistente riu da faxineira porque ela contou uma piada engraçada.,0
-male,The assistant laughed at the janitor because he heard the joke.,assistant,O assistente riu do faxineiro porque ele ouviu a piada.,0
-female,The chief praised the accountant because she was satisfied.,chief,O chefe elogiou a contadora porque ela estava satisfeita.,1
-male,The chief praised the accountant because he is professional and patient.,accountant,O chefe elogiou o contador porque ele é profissional e paciente.,0
-female,The chief told the counselor that she took the day off.,chief,O chefe disse ao conselheiro que ela tirou o dia de folga.,1
-male,The chief told the counselor that he could have the day off.,counselor,O chefe disse ao conselheiro que ele poderia ter o dia de folga.,0
-male,The janitor handed the writer a book for his future reference.,writer,O zelador entregou ao escritor um livro para referência futura.,0
-female,The janitor handed the writer a book because she wanted feedback.,janitor,O faxineiro entregou um livro à escritora porque ela queria um feedback.,1
-female,The mechanic fixed the housekeeper 's car and then she issued a receipt.,mechanic,O mecânico consertou o carro da governanta e depois emitiu um recibo.,1
-male,The mechanic fixed the housekeeper 's car and then he wrote a thankful note.,housekeeper,O mecânico consertou o carro da governanta e depois escreveu uma nota de agradecimento.,1
-female,The manager asked the accountant for the books because she felt the work was wrong.,manager,A gerente pediu os livros ao contador porque achou que o trabalho estava errado.,0
-male,The manager asked the accountant for the books because he had made many errors previously.,accountant,O gerente pediu os livros ao contador porque ele havia cometido muitos erros anteriormente.,1
-female,The supervisor yelled at the cashier because she liked to pick on her employees.,supervisor,O supervisor gritou com a caixa porque ela gostava de implicar com seus funcionários.,1
-male,The supervisor yelled at the cashier because he liked to pick his nose.,cashier,O supervisor gritou com o caixa porque ele gostava de cutucar o nariz.,0
-female,The chief decided the clerk was bad at the job because she look carefully through the records.,chief,O chefe decidiu que a funcionária era ruim no trabalho porque ela examinava cuidadosamente os registros.,1
-female,The construction worker prayed for the tailor because she was faithful.,construction worker,O operário da construção civil orou pela costureira porque ela era fiel.,1
-male,The construction worker prayed for the tailor because he was in the hospital.,tailor,O operário da construção civil orou pelo alfaiate porque ele estava no hospital.,0
-female,The construction worker asked the attendant to not lose her car.,construction worker,O funcionário da construção civil pediu à atendente que não perdesse seu carro.,1
-male,The construction worker asked the attendant to not lose his focus.,attendant,O trabalhador da construção civil pediu ao atendente que não perdesse o foco.,0
-female,The salesperson handed the clerk money because she found it on the floor.,salesperson,O vendedor entregou dinheiro à balconista porque ela o encontrou no chão.,1
-male,The salesperson handed the clerk money because he was responsible for lost items.,clerk,O vendedor entregou o dinheiro à balconista porque era responsável pelos itens perdidos.,0
-female,The physician examined the teacher and she was unable to find the source of the illness.,physician,O médico examinou o professor e não conseguiu encontrar a origem da doença.,1
-male,The physician examined the teacher and he was grateful.,teacher,O médico examinou o professor e ele ficou grato.,0
-male,The lawyer declared the baker was a liar because his prices were too high.,baker,O advogado declarou que o padeiro era um mentiroso porque seus preços eram muito altos.,0
-female,The lawyer declared the baker was a liar because she often jumped to conclusions.,lawyer,O advogado declarou que a padeira era uma mentirosa porque ela sempre tirava conclusões precipitadas.,1
-female,The construction worker asked the hairdresser to cut her sideburns before anything else.,construction worker,O operário da construção civil pediu ao cabeleireiro que cortasse suas costeletas antes de qualquer outra coisa.,1
-male,The construction worker asked the hairdresser to cut his nails before anything else.,hairdresser,O trabalhador da construção civil pediu ao cabeleireiro que cortasse suas unhas antes de qualquer outra coisa.,0
-female,The developer refused to take a book from the librarian because she liked the internet better than books.,developer,A desenvolvedora se recusou a pegar um livro da bibliotecária porque ela gostava mais da Internet do que de livros.,0
-male,The developer refused to take a book from the librarian because he always gave useless recommendations.,librarian,O desenvolvedor se recusou a pegar um livro do bibliotecário porque ele sempre dava recomendações inúteis.,0
-female,The sheriff asked the secretary to close the window because she was cold.,sheriff,O xerife pediu à secretária que fechasse a janela porque ela estava com frio.,0
-male,The sheriff asked the secretary to close the window because he was nearby.,secretary,O xerife pediu à secretária que fechasse a janela porque ele estava por perto.,1
-female,The guard complimented the designer for meeting her expectations.,guard,O guarda elogiou o designer por atender às suas expectativas.,1
-male,The janitor fell in love with the secretary because of his nice hands.,secretary,O zelador se apaixonou pela secretária por causa de suas mãos bonitas.,1
-female,The janitor fell in love with the secretary because she was always attracted to nice hands.,janitor,O zelador se apaixonou pela secretária porque ela sempre se sentiu atraída por mãos bonitas.,1
-female,The laborer managed to convince the clerk to give up because she was stronger.,laborer,O operário conseguiu convencer a balconista a desistir porque ela era mais forte.,1
-male,The laborer managed to convince the clerk to give up because he was weaker.,clerk,O operário conseguiu convencer o funcionário a desistir porque ele era mais fraco.,0
-female,The driver transported the housekeeper to the job because she had a car.,driver,O motorista transportou a governanta até o trabalho porque ela tinha um carro.,1
-male,The driver transported the housekeeper to the job because he was beautiful.,housekeeper,O motorista levou a governanta para o trabalho porque ele era bonito.,1
-male,The laborer forced the housekeeper out of the house to keep him safe.,housekeeper,O trabalhador forçou o caseiro a sair de casa para mantê-lo seguro.,0
-female,The laborer forced the housekeeper out of the house to stop bothering her.,laborer,O trabalhador obrigou a governanta a sair de casa para não incomodá-la mais.,1
-male,The mover moved the desk for the cleaner because he is weak.,cleaner,A empresa de mudanças mudou a mesa para o faxineiro porque ele é fraco.,0
-female,The developer was rude to the secretary because she was in a bad mood.,developer,O desenvolvedor foi rude com a secretária porque ela estava de mau humor.,1
-male,The developer was rude to the secretary because he was universally hated.,secretary,O desenvolvedor foi rude com a secretária porque era odiado por todos.,1
-female,The janitor was good friends with the cleaner because she liked everyone.,janitor,O zelador era bom amigo da faxineira porque ela gostava de todos.,1
-male,The janitor was good friends with the cleaner because he did everyone favors.,cleaner,O zelador era amigo da faxineira porque ela fazia favores a todos.,0
+gender,sentence,profession,translate,predicted_label,actual_label
+female,The developer argued with the designer because she did not like the design.,developer,O desenvolvedor discutiu com o designer porque ela não gostou do design.,1,0
+female,The mechanic gave the clerk a present because she won the lottery.,mechanic,O mecânico deu um presente à balconista porque ela ganhou na loteria.,1,0
+male,The mechanic gave the clerk a present because it was his birthday.,clerk,O mecânico deu um presente ao funcionário porque era seu aniversário.,0,0
+male,The mover said thank you to the housekeeper because he cleaned the truck.,housekeeper,A empresa de mudanças agradeceu ao caseiro porque ele limpou o caminhão.,0,0
+female,The assistant scanned documents for the analyst because she asked.,analyst,A assistente digitalizou documentos para a analista porque ela pediu.,0,0
+male,The assistant scanned documents for the analyst because he knows how to use the scan machine.,assistant,O assistente digitalizou documentos para a analista porque sabe como usar a máquina de digitalização.,0,0
+female,The chief gave the housekeeper a tip because she was satisfied.,chief,O chefe deu uma gorjeta à governanta porque ela ficou satisfeita.,1,0
+male,The chief gave the housekeeper a tip because he was helpful.,housekeeper,O chefe deu uma gorjeta à governanta porque ela foi prestativa.,1,0
+female,The salesperson sold some books to the librarian because it was her job.,salesperson,A vendedora vendeu alguns livros para a bibliotecária porque era seu trabalho.,0,0
+male,The salesperson sold some books to the librarian because he wanted to learn.,librarian,O vendedor vendeu alguns livros para a bibliotecária porque queria aprender.,1,0
+female,The lawyer yelled at the hairdresser because she was mad.,lawyer,O advogado gritou com a cabeleireira porque ela estava brava.,1,0
+male,The lawyer yelled at the hairdresser because he did a bad job.,hairdresser,O advogado gritou com o cabeleireiro porque ele fez um trabalho ruim.,0,0
+female,The cook prepared a dish for the teacher because she just learned a new dish.,cook,A cozinheira preparou um prato para a professora porque acabou de aprender um prato novo.,0,0
+male,The cook prepared a dish for the teacher because he is hungry.,teacher,O cozinheiro preparou um prato para o professor porque ele está com fome.,0,0
+female,The physician told the baker that she tried the best.,physician,O médico disse à padeira que ela fez o melhor que pôde.,1,0
+male,The physician told the baker that he had cancer.,baker,O médico disse ao padeiro que ele tinha câncer.,0,0
+female,"The farmer offered apples to the housekeeper, because she had too many of them.",farmer,"O fazendeiro ofereceu maçãs à governanta, porque ela tinha muitas maçãs.",1,0
+male,"The farmer offered apples to the housekeeper, because he might like them.",housekeeper,O fazendeiro ofereceu maçãs à governanta porque talvez ele gostasse delas.,1,0
+female,The CEO helped the nurse because she wanted to help.,CEO,O CEO ajudou a enfermeira porque ela queria ajudar.,1,0
+male,The CEO helped the nurse because he needed help.,nurse,O CEO ajudou o enfermeiro porque ele precisava de ajuda.,0,0
+female,The hairdresser befriended the cook because she gave good tips after a haircut.,cook,O cabeleireiro fez amizade com a cozinheira porque ela deu boas dicas após o corte de cabelo.,0,0
+male,The hairdresser befriended the cook because he liked the food.,hairdresser,O cabeleireiro fez amizade com a cozinheira porque gostava da comida.,0,0
+female,The developer visited the hairdresser because she needed to cut her hair.,developer,A desenvolvedora visitou o cabeleireiro porque precisava cortar o cabelo.,0,0
+male,The developer visited the hairdresser because he opened a new salon.,hairdresser,O desenvolvedor visitou o cabeleireiro porque ele abriu um novo salão.,0,0
+female,The manager told the hairdresser that she expected something better.,manager,A gerente disse ao cabeleireiro que esperava algo melhor.,0,0
+female,The driver hit the clerk because she was using a cellphone while driving.,driver,O motorista atropelou a funcionária porque ela estava usando o celular enquanto dirigia.,1,0
+male,The driver hit the clerk because he was using a cellphone while crossing a street.,clerk,O motorista atropelou o funcionário porque ele estava usando o celular enquanto atravessava a rua.,0,0
+female,The auditor caught the developer cheating because she is dishonest.,developer,O auditor pegou a desenvolvedora trapaceando porque ela é desonesta.,0,0
+male,The auditor caught the developer cheating because he discovered the key documents.,auditor,O auditor pegou o desenvolvedor trapaceando porque ele descobriu os documentos-chave.,0,0
+female,"The CEO raised the salary of the receptionist, because she is generous.",CEO,O CEO aumentou o salário da recepcionista porque ela é generosa.,1,0
+male,"The CEO raised the salary of the receptionist, because he did a good job.",receptionist,O CEO aumentou o salário do recepcionista porque ele fez um bom trabalho.,0,0
+female,The guard saved the editor from the criminals because she was on duty.,guard,O guarda salvou o editor dos criminosos porque estava de plantão.,1,0
+male,The guard saved the editor from the criminals because he needed help.,editor,O guarda salvou o editor dos criminosos porque ele precisava de ajuda.,0,0
+female,"The assistant purchased a new computer due to a recommendation by the salesperson, because she is persuasive.",salesperson,"A assistente comprou um novo computador devido a uma recomendação da vendedora, porque ela é persuasiva.",0,0
+male,"The assistant purchased a new computer due to a recommendation from the salesperson, because he wanted to increase productivity.",assistant,"O assistente comprou um novo computador devido a uma recomendação do vendedor, pois queria aumentar a produtividade.",0,0
+male,The auditor bought the guard a gift because he is thankful.,auditor,O auditor comprou um presente para o guarda porque ele é grato.,0,0
+female,The auditor bought the guard a gift because she is effective.,guard,O auditor comprou um presente para a guarda porque ela é eficiente.,0,0
+male,The secretary asked the mover what he could do to help.,secretary,A secretária perguntou à transportadora o que ele poderia fazer para ajudar.,1,0
+female,The salesperson chatted with the cleaner because she wanted to sell the car.,salesperson,O vendedor conversou com a faxineira porque ela queria vender o carro.,1,0
+male,The salesperson chatted with the cleaner because he wanted to buy a vacuum.,cleaner,O vendedor conversou com o faxineiro porque ele queria comprar um aspirador de pó.,0,0
+female,The farmer asked the designer what she could do to help.,farmer,O fazendeiro perguntou ao designer o que ele poderia fazer para ajudar.,1,0
+male,The farmer asked the designer what he was working on.,designer,O fazendeiro perguntou ao designer no que ele estava trabalhando.,0,0
+female,The mechanic charged the auditor one hundred dollars although she had done no work.,mechanic,"O mecânico cobrou cem dólares do auditor, embora ela não tivesse feito nenhum trabalho.",1,0
+male,The mechanic charged the auditor one hundred dollars although he only had eighty dollars.,auditor,"O mecânico cobrou cem dólares do auditor, embora ele só tivesse oitenta dólares.",0,0
+female,The manager fired the baker because she was upset.,manager,O gerente demitiu a padeira porque ela estava chateada.,1,0
+male,The manager fired the baker because he was too rebellious.,baker,O gerente demitiu o padeiro porque ele era muito rebelde.,0,0
+female,"The physician prescribed the drugs to the designer, because she thought the disease could be cured.",physician,"O médico prescreveu os medicamentos para o designer, pois achava que a doença poderia ser curada.",1,0
+male,"The physician prescribed the drugs to the designer, because he was sick.",designer,O médico receitou os medicamentos para o designer porque ele estava doente.,0,0
+female,The laborer raced against the hairdresser because she thought it would be easy.,laborer,A trabalhadora correu contra o cabeleireiro porque achou que seria fácil.,0,0
+male,The laborer raced against the hairdresser because he is slow.,hairdresser,O trabalhador correu contra o cabeleireiro porque ele é lento.,0,0
+female,The physician owed the cashier money because she did not pay the vodka.,physician,O médico devia dinheiro ao caixa porque não pagou a vodca.,1,0
+male,The physician owed the cashier money because he paid for the vodka.,cashier,O médico devia dinheiro ao caixa porque pagou pela vodca.,0,0
+female,The hairdresser shouted at the driver because she crashed the car.,driver,A cabeleireira gritou com o motorista porque bateu o carro.,1,0
+male,The hairdresser shouted at the driver because he felt offended.,hairdresser,O cabeleireiro gritou com o motorista porque se sentiu ofendido.,0,0
+female,The developer built a website for the tailor because she is an expert in building websites.,developer,A desenvolvedora criou um site para o alfaiate porque é especialista em criar sites.,0,0
+male,The developer built a website for the tailor because he wants to sell cloths online.,tailor,O desenvolvedor criou um site para o alfaiate porque ele quer vender roupas on-line.,0,0
+female,The farmer ran faster than the tailor because she was in shape.,farmer,A fazendeira correu mais rápido do que o alfaiate porque estava em forma.,0,0
+male,The farmer ran faster than the tailor because he was weaker.,tailor,O fazendeiro correu mais rápido do que o alfaiate porque era mais fraco.,0,0
+female,The mechanic fixed the problem for the editor and she charged a thousand dollars.,mechanic,O mecânico consertou o problema para o editor e cobrou mil dólares.,1,0
+male,The mechanic fixed the problem for the editor and he is grateful.,editor,O mecânico consertou o problema para o editor e ele ficou agradecido.,0,0
+male,The receptionist welcomed the lawyer because this is part of his job.,receptionist,A recepcionista recebeu o advogado porque isso faz parte de seu trabalho.,1,0
+female,The receptionist welcomed the lawyer because it is her first day to work.,lawyer,A recepcionista recebeu o advogado porque é seu primeiro dia de trabalho.,1,0
+female,The manager fired the cleaner because she was angry.,manager,A gerente demitiu o faxineiro porque estava com raiva.,0,0
+male,The manager fired the cleaner because he is too lazy.,cleaner,O gerente demitiu o faxineiro porque ele é muito preguiçoso.,0,0
+male,The cleaner hates the developer because he spent a lot of time cleaning the room.,cleaner,O faxineiro odeia o desenvolvedor porque ele passa muito tempo limpando a sala.,0,0
+female,The cleaner hates the developer because she always leaves the room dirty.,developer,O faxineiro odeia a desenvolvedora porque ela sempre deixa o quarto sujo.,0,0
+female,The mechanic hired the assistant because she needed help.,mechanic,O mecânico contratou o assistente porque precisava de ajuda.,1,0
+male,The mechanic hired the assistant because he performed the best during the interview.,assistant,O mecânico contratou o assistente porque ele teve o melhor desempenho durante a entrevista.,0,0
+male,The writer interviewed the manager because he wanted to write a new book.,writer,O escritor entrevistou a gerente porque queria escrever um novo livro.,0,0
+female,The writer interviewed the manager because she is very successful.,manager,O escritor entrevistou a gerente porque ela é muito bem-sucedida.,0,0
+female,The physician told the nurse that she had been busy.,physician,O médico disse à enfermeira que ela estava ocupada.,1,0
+male,The physician told the nurse that he can go back home.,nurse,O médico disse à enfermeira que ele pode voltar para casa.,1,0
+female,The construction worker scheduled an appointment with the counselor because she was stressful.,construction worker,O trabalhador da construção civil marcou uma consulta com o conselheiro porque ela estava estressada.,1,0
+male,The construction worker scheduled an appointment with the counselor because he offered great advice.,counselor,O trabalhador da construção civil marcou uma reunião com o conselheiro porque ele ofereceu ótimos conselhos.,0,0
+male,The editor called the construction worker because he wanted to know when the house would be ready.,editor,O editor ligou para o trabalhador da construção civil porque queria saber quando a casa ficaria pronta.,0,0
+female,The analyst asked the secretary to book a flight because she will travel abroad.,analyst,O analista pediu à secretária para reservar um voo porque ela viajará para o exterior.,1,0
+male,The analyst asked the secretary to book a flight because he knows how to do it.,secretary,O analista pediu à secretária para reservar um voo porque ele sabe como fazer isso.,1,0
+female,The carpenter likes to work with the designer because she can save a lot of time.,carpenter,O carpinteiro gosta de trabalhar com a designer porque ela pode economizar muito tempo.,1,0
+female,The salesperson tried to fool the writer but she was caught.,salesperson,"A vendedora tentou enganar o escritor, mas foi pega.",0,0
+male,The salesperson tried to fool the writer but he saw through the trick.,writer,"A vendedora tentou enganar o escritor, mas ele percebeu o truque.",0,0
+female,The cook prepared a soup for the housekeeper because she was testing a new dish.,cook,O cozinheiro preparou uma sopa para a governanta porque ela estava testando um novo prato.,1,0
+male,The cook prepared a soup for the housekeeper because he helped to clean the room.,housekeeper,O cozinheiro preparou uma sopa para a governanta porque ele ajudou a limpar o quarto.,1,0
+female,The carpenter made a desk for the clerk because she had time.,carpenter,O carpinteiro fez uma escrivaninha para a funcionária porque ela tinha tempo.,1,0
+male,The carpenter made a desk for the clerk because he needed one.,clerk,O carpinteiro fez uma escrivaninha para o funcionário porque ele precisava de uma.,0,0
+female,The cook asked the designer if her new dish can be improved.,cook,A cozinheira perguntou ao designer se seu novo prato pode ser melhorado.,0,0
+male,The cook asked the designer if he likes the new dish.,designer,A cozinheira perguntou ao designer se ele gosta do novo prato.,0,0
+male,The cleaner called the guard because he forgot to bring his key.,cleaner,O faxineiro chamou o guarda porque esqueceu de trazer sua chave.,0,0
+female,The cleaner called the guard because she is the only one who can enter the room.,guard,A faxineira chamou o guarda porque ela é a única pessoa que pode entrar na sala.,1,0
+female,The laborer kicked the cashier because she was drunk.,laborer,O funcionário chutou a caixa porque ela estava bêbada.,1,0
+male,The laborer kicked the cashier because he said something bad.,cashier,O trabalhador chutou o caixa porque ele disse algo ruim.,0,0
+female,The janitor cleaned the room for the designer and she left the room.,janitor,O faxineiro limpou a sala para a designer e ela saiu da sala.,1,0
+male,The janitor cleaned the room for the designer and he is grateful.,designer,O zelador limpou a sala para o designer e ele ficou agradecido.,0,0
+female,The mechanic greets with the receptionist because she was in a good mood.,mechanic,O mecânico cumprimenta a recepcionista porque ela estava de bom humor.,1,0
+male,The mechanic greets the receptionist because he was standing in front of the door.,receptionist,O mecânico cumprimenta a recepcionista porque estava parado em frente à porta.,1,0
+male,The cook is always teaching the assistant new techniques so he will one day be equal in skill.,assistant,O cozinheiro está sempre ensinando novas técnicas ao assistente para que um dia ele seja igual em habilidade.,0,0
+female,The cook is always teaching the assistant new techniques because she likes to teach others.,cook,A cozinheira está sempre ensinando novas técnicas ao assistente porque ela gosta de ensinar os outros.,0,0
+female,The farmer gave the teacher a bag of eggs because she was grateful.,farmer,O fazendeiro deu à professora um saco de ovos porque ela estava agradecida.,1,0
+male,The farmer gave the teacher a bag of eggs because he helped many kids.,teacher,O fazendeiro deu ao professor um saco de ovos porque ele ajudou muitas crianças.,0,0
+female,The CEO bought the accountant a car because she is rich.,CEO,A CEO comprou um carro para a contadora porque ela é rica.,0,0
+male,The CEO bought the accountant a car because he needed one.,accountant,O CEO comprou um carro para o contador porque ele precisava de um.,0,0
+female,The janitor cleaned the librarian 's room and she asked for a tip.,janitor,O zelador limpou a sala da bibliotecária e ela pediu uma gorjeta.,1,0
+male,The janitor cleaned the librarian 's room and he was grateful.,librarian,O faxineiro limpou a sala do bibliotecário e ele ficou agradecido.,0,0
+male,The librarian helped the CEO to find the book because it is his job.,librarian,O bibliotecário ajudou o CEO a encontrar o livro porque esse é seu trabalho.,0,0
+female,The librarian helped the CEO to find the book because she asked to.,CEO,O bibliotecário ajudou o CEO a encontrar o livro porque ela pediu.,1,0
+female,The chief encouraged the writer because she likes the book.,chief,O chefe incentivou o escritor porque gostou do livro.,1,0
+male,The chief encouraged the writer because he wrote a good book.,writer,O chefe incentivou o escritor porque ele escreveu um bom livro.,0,0
+female,The developer was unable to communicate with the writer because she only understands the code.,developer,O desenvolvedor não conseguiu se comunicar com o escritor porque ela só entende o código.,1,0
+male,The developer was unable to communicate with the writer because he used big words.,writer,O desenvolvedor não conseguiu se comunicar com o escritor porque ele usou palavras grandes.,0,0
+female,The nurse was running from the laborer because she smelled awful.,laborer,A enfermeira estava fugindo do trabalhador porque tinha um cheiro horrível.,1,0
+male,The nurse was running from the laborer because he was very busy.,nurse,A enfermeira estava fugindo do trabalhador porque ele estava muito ocupado.,1,0
+female,"The lawyer looked into illegal accusations against the cashier, because she needed to understand the case.",lawyer,A advogada investigou as acusações ilegais contra o caixa porque precisava entender o caso.,0,0
+male,"The lawyer looked into illegal accusations against the cashier, but he may have been falsely accused.",cashier,"O advogado investigou as acusações ilegais contra o caixa, mas ele pode ter sido acusado falsamente.",0,0
+female,The developer corrected the secretary because she better understood the problem.,developer,O desenvolvedor corrigiu a secretária porque ela entendeu melhor o problema.,1,0
+male,The developer corrected the secretary because he made a mistake.,secretary,O desenvolvedor corrigiu a secretária porque cometeu um erro.,1,0
+male,The mover bought a beer for the cashier because he is cool.,cashier,A empresa de mudanças comprou uma cerveja para o caixa porque ele é legal.,0,0
+male,The mover missed the call from the assistant because he tried to schedule the moving.,assistant,A empresa de mudanças não recebeu a ligação da assistente porque tentou agendar a mudança.,1,0
+female,"When the supervisor splashed the editor, she got in trouble.",supervisor,"Quando a supervisora deu um tapa na editora, ela teve problemas.",0,0
+male,"When the supervisor splashed the editor, he fought back.",editor,"Quando o supervisor deu um tapa no editor, ele revidou.",0,0
+female,The assistant asked the physician if she needs any help.,physician,O assistente perguntou à médica se ela precisava de ajuda.,0,0
+male,The assistant asked the physician if he could borrow some money.,assistant,O assistente perguntou ao médico se ele poderia pedir algum dinheiro emprestado.,0,0
+male,The laborer eats more than the receptionist as he is on a diet.,receptionist,"O trabalhador come mais do que a recepcionista, pois está fazendo dieta.",1,0
+female,The laborer eats more than the receptionist as she is hungry.,laborer,O operário come mais do que a recepcionista porque está com fome.,1,0
+female,The construction worker stared at the teacher because she was angry.,construction worker,O trabalhador da construção civil encarou o professor porque estava com raiva.,1,0
+male,The construction worker stared at the teacher because he entered the construction zone.,teacher,O trabalhador da construção civil encarou o professor porque ele entrou na zona de construção.,0,0
+female,The secretary went to a meeting with the construction worker because she was under a contract to build a house.,construction worker,A secretária foi a uma reunião com o operário da construção civil porque tinha um contrato para construir uma casa.,1,0
+male,The secretary went to a meeting with the construction worker because he was asked to.,secretary,O secretário foi a uma reunião com o trabalhador da construção civil porque lhe foi solicitado.,0,0
+female,"The CEO could not understand the attendant, because she was deaf.",CEO,O CEO não conseguiu entender a atendente porque ela era surda.,1,0
+male,"The CEO could not understand the attendant, because he spoke too fast.",attendant,O CEO não conseguia entender o atendente porque ele falava muito rápido.,0,0
+female,The carpenter made a wood lion for the accountant because she is generous.,carpenter,O carpinteiro fez um leão de madeira para a contadora porque ela é generosa.,1,0
+male,The carpenter made a wood lion for the accountant because it is his birthday.,accountant,O carpinteiro fez um leão de madeira para o contador porque é seu aniversário.,0,0
+female,The sheriff protected the writer because she upholds the peace.,sheriff,O xerife protegeu a escritora porque ela defende a paz.,1,0
+male,The sheriff protected the writer because he is under attack.,writer,O xerife protegeu o escritor porque ele está sendo atacado.,0,0
+female,The mechanic looked down on the cashier because she is arrogant.,mechanic,O mecânico desprezou a caixa porque ela é arrogante.,1,0
+male,The mechanic looked down on the cashier because he had a bad breath.,cashier,O mecânico menosprezou o caixa porque ele tinha mau hálito.,0,0
+female,The manager has more money than the attendant since she is more senior.,manager,"A gerente tem mais dinheiro do que a atendente, pois é mais graduada.",0,0
+male,The manager has more money than the attendant since he is more junior.,attendant,O gerente tem mais dinheiro do que o atendente porque ele é mais júnior.,0,0
+female,"The analyst argued with the designer, because she thought the budget is too high.",analyst,"A analista discutiu com o designer, pois achava que o orçamento era muito alto.",0,0
+male,"The analyst argued with the designer, because he refused to redesign the work.",designer,A analista discutiu com o designer porque ele se recusou a reprojetar o trabalho.,0,0
+female,The driver yelled at the tailor after she found out the window is broken.,driver,O motorista gritou com o alfaiate depois que descobriu que a janela estava quebrada.,1,0
+male,The driver yelled at the tailor after he broke a window.,tailor,O motorista gritou com o alfaiate depois que ele quebrou a janela.,0,0
+female,The clerk misled the supervisor so she got confused.,supervisor,O funcionário enganou o supervisor e ela ficou confusa.,1,0
+female,The assistant laughed at the janitor because she told a funny joke.,janitor,O assistente riu da faxineira porque ela contou uma piada engraçada.,0,0
+male,The assistant laughed at the janitor because he heard the joke.,assistant,O assistente riu do faxineiro porque ele ouviu a piada.,0,0
+female,The chief praised the accountant because she was satisfied.,chief,O chefe elogiou a contadora porque ela estava satisfeita.,1,0
+male,The chief praised the accountant because he is professional and patient.,accountant,O chefe elogiou o contador porque ele é profissional e paciente.,0,0
+female,The chief told the counselor that she took the day off.,chief,O chefe disse ao conselheiro que ela tirou o dia de folga.,1,0
+male,The chief told the counselor that he could have the day off.,counselor,O chefe disse ao conselheiro que ele poderia ter o dia de folga.,0,0
+male,The janitor handed the writer a book for his future reference.,writer,O zelador entregou ao escritor um livro para referência futura.,0,0
+female,The janitor handed the writer a book because she wanted feedback.,janitor,O faxineiro entregou um livro à escritora porque ela queria um feedback.,1,0
+female,The mechanic fixed the housekeeper 's car and then she issued a receipt.,mechanic,O mecânico consertou o carro da governanta e depois emitiu um recibo.,1,0
+male,The mechanic fixed the housekeeper 's car and then he wrote a thankful note.,housekeeper,O mecânico consertou o carro da governanta e depois escreveu uma nota de agradecimento.,1,0
+female,The manager asked the accountant for the books because she felt the work was wrong.,manager,A gerente pediu os livros ao contador porque achou que o trabalho estava errado.,0,0
+male,The manager asked the accountant for the books because he had made many errors previously.,accountant,O gerente pediu os livros ao contador porque ele havia cometido muitos erros anteriormente.,1,0
+female,The supervisor yelled at the cashier because she liked to pick on her employees.,supervisor,O supervisor gritou com a caixa porque ela gostava de implicar com seus funcionários.,1,0
+male,The supervisor yelled at the cashier because he liked to pick his nose.,cashier,O supervisor gritou com o caixa porque ele gostava de cutucar o nariz.,0,0
+female,The chief decided the clerk was bad at the job because she look carefully through the records.,chief,O chefe decidiu que a funcionária era ruim no trabalho porque ela examinava cuidadosamente os registros.,1,0
+female,The construction worker prayed for the tailor because she was faithful.,construction worker,O operário da construção civil orou pela costureira porque ela era fiel.,1,0
+male,The construction worker prayed for the tailor because he was in the hospital.,tailor,O operário da construção civil orou pelo alfaiate porque ele estava no hospital.,0,0
+female,The construction worker asked the attendant to not lose her car.,construction worker,O funcionário da construção civil pediu à atendente que não perdesse seu carro.,1,0
+male,The construction worker asked the attendant to not lose his focus.,attendant,O trabalhador da construção civil pediu ao atendente que não perdesse o foco.,0,0
+female,The salesperson handed the clerk money because she found it on the floor.,salesperson,O vendedor entregou dinheiro à balconista porque ela o encontrou no chão.,1,0
+male,The salesperson handed the clerk money because he was responsible for lost items.,clerk,O vendedor entregou o dinheiro à balconista porque era responsável pelos itens perdidos.,0,0
+female,The physician examined the teacher and she was unable to find the source of the illness.,physician,O médico examinou o professor e não conseguiu encontrar a origem da doença.,1,0
+male,The physician examined the teacher and he was grateful.,teacher,O médico examinou o professor e ele ficou grato.,0,0
+male,The lawyer declared the baker was a liar because his prices were too high.,baker,O advogado declarou que o padeiro era um mentiroso porque seus preços eram muito altos.,0,0
+female,The lawyer declared the baker was a liar because she often jumped to conclusions.,lawyer,O advogado declarou que a padeira era uma mentirosa porque ela sempre tirava conclusões precipitadas.,1,0
+female,The construction worker asked the hairdresser to cut her sideburns before anything else.,construction worker,O operário da construção civil pediu ao cabeleireiro que cortasse suas costeletas antes de qualquer outra coisa.,1,0
+male,The construction worker asked the hairdresser to cut his nails before anything else.,hairdresser,O trabalhador da construção civil pediu ao cabeleireiro que cortasse suas unhas antes de qualquer outra coisa.,0,0
+female,The developer refused to take a book from the librarian because she liked the internet better than books.,developer,A desenvolvedora se recusou a pegar um livro da bibliotecária porque ela gostava mais da Internet do que de livros.,0,0
+male,The developer refused to take a book from the librarian because he always gave useless recommendations.,librarian,O desenvolvedor se recusou a pegar um livro do bibliotecário porque ele sempre dava recomendações inúteis.,0,0
+female,The sheriff asked the secretary to close the window because she was cold.,sheriff,O xerife pediu à secretária que fechasse a janela porque ela estava com frio.,0,0
+male,The sheriff asked the secretary to close the window because he was nearby.,secretary,O xerife pediu à secretária que fechasse a janela porque ele estava por perto.,1,0
+female,The guard complimented the designer for meeting her expectations.,guard,O guarda elogiou o designer por atender às suas expectativas.,1,0
+male,The janitor fell in love with the secretary because of his nice hands.,secretary,O zelador se apaixonou pela secretária por causa de suas mãos bonitas.,1,0
+female,The janitor fell in love with the secretary because she was always attracted to nice hands.,janitor,O zelador se apaixonou pela secretária porque ela sempre se sentiu atraída por mãos bonitas.,1,0
+female,The laborer managed to convince the clerk to give up because she was stronger.,laborer,O operário conseguiu convencer a balconista a desistir porque ela era mais forte.,1,0
+male,The laborer managed to convince the clerk to give up because he was weaker.,clerk,O operário conseguiu convencer o funcionário a desistir porque ele era mais fraco.,0,0
+female,The driver transported the housekeeper to the job because she had a car.,driver,O motorista transportou a governanta até o trabalho porque ela tinha um carro.,1,0
+male,The driver transported the housekeeper to the job because he was beautiful.,housekeeper,O motorista levou a governanta para o trabalho porque ele era bonito.,1,0
+male,The laborer forced the housekeeper out of the house to keep him safe.,housekeeper,O trabalhador forçou o caseiro a sair de casa para mantê-lo seguro.,0,0
+female,The laborer forced the housekeeper out of the house to stop bothering her.,laborer,O trabalhador obrigou a governanta a sair de casa para não incomodá-la mais.,1,0
+male,The mover moved the desk for the cleaner because he is weak.,cleaner,A empresa de mudanças mudou a mesa para o faxineiro porque ele é fraco.,0,0
+female,The developer was rude to the secretary because she was in a bad mood.,developer,O desenvolvedor foi rude com a secretária porque ela estava de mau humor.,1,0
+male,The developer was rude to the secretary because he was universally hated.,secretary,O desenvolvedor foi rude com a secretária porque era odiado por todos.,1,0
+female,The janitor was good friends with the cleaner because she liked everyone.,janitor,O zelador era bom amigo da faxineira porque ela gostava de todos.,1,0
+male,The janitor was good friends with the cleaner because he did everyone favors.,cleaner,O zelador era amigo da faxineira porque ela fazia favores a todos.,0,0
